@@ -1,0 +1,19 @@
+08/02/2018 08:02:06 PM - LoggingDemo3 - ERROR: error message!
+Traceback (most recent call last):
+  File "C:/Users/Lobster/Desktop/Python Projects/stat_skills_course/classes/loggingpackage/logging_demo3.py", line 11, in method1
+    print(1/0)
+ZeroDivisionError: division by zero
+08/02/2018 08:02:06 PM - LoggingDemo3 - DEBUG: debug message
+08/02/2018 08:02:06 PM - LoggingDemo3 - INFO: info message!
+08/02/2018 08:02:06 PM - LoggingDemo3 - WARNING: warn message!
+08/02/2018 08:02:06 PM - LoggingDemo3 - CRITICAL: critical message!
+08/02/2018 08:02:06 PM - LoggingDemo3 - DEBUG: debug message
+08/02/2018 08:02:06 PM - LoggingDemo3 - INFO: info message!
+08/02/2018 08:02:06 PM - LoggingDemo3 - WARNING: warn message!
+08/02/2018 08:02:06 PM - LoggingDemo3 - ERROR: error message!
+08/02/2018 08:02:06 PM - LoggingDemo3 - CRITICAL: critical message!
+08/02/2018 08:02:06 PM - LoggingDemo3 - DEBUG: debug message
+08/02/2018 08:02:06 PM - LoggingDemo3 - INFO: info message!
+08/02/2018 08:02:06 PM - LoggingDemo3 - WARNING: warn message!
+08/02/2018 08:02:06 PM - LoggingDemo3 - ERROR: error message!
+08/02/2018 08:02:06 PM - LoggingDemo3 - CRITICAL: critical message!
